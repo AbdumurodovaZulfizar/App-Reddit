@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   root to: "home#index"
   devise_for :users
   get "articles/index"
+  get "/users/sign_out", to: "devise/sessions#destroy"
   resources :articles do
     resources :comments
   end
