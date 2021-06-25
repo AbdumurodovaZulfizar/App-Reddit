@@ -57,7 +57,7 @@ This project was built to demonstrate the understanding for Rails models and the
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AbdumurodovaZulfizar/App-Reddit/issues/1).
 
 ## Show your support
 
@@ -72,4 +72,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 Copyright 2021 Zulfizar Abdumurodova
-- [MIT](https://github.com/AbdumurodovaZulfizar/ruby-linter/blob/build_linter/LICENSE.md) for this project.
+- [MIT](https://github.com/AbdumurodovaZulfizar/App-Reddit/blob/create-app/LICENSE.md) for this project.
