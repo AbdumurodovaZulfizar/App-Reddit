@@ -6,6 +6,8 @@
 
 This project was built to demonstrate the understanding for Rails models and the associations between them
 
+<img src="./app/assets/images/post.png" alt="" style="width: 100%;">
+
 ## Built With
 
 - <code><img height="20" src="https://www.ruby-lang.org/images/header-ruby-logo.png"></code> Ruby Language <br>
